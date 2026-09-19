@@ -1,6 +1,6 @@
 cask "treepeek" do
-  version "0.1.3"
-  sha256 "0c9aa6753d5ddbb4625a1d22b3a97bf23c6f2fdae42a687118f537fd29d808ee"
+  version "0.1.4"
+  sha256 "e01c9f79d73ff40b1a24769df3288769cc8bb0d10c45f75724a148bb30b64193"
 
   url "https://download.treepeek.com/TreePeek-#{version}.dmg"
   name "TreePeek"
